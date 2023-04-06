@@ -1,3 +1,14 @@
+/**
+ * @file variables.c
+ * @author Raan_at_Git (Windows) (74211378+Raan-Saurav-Bhuyan@users.noreply.github.com)
+ * @brief Introduction to numeric and character variables in C and printf functions to
+ * print them on the output stream/console.
+ * @version 0.1
+ * @date 06-04-2023
+ *
+ * @copyright Copyright (c) 2023
+ *
+ */
 #include <stdio.h>
 #include <conio.h>
 
