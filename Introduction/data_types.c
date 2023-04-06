@@ -42,7 +42,7 @@ int main()
     printf("a = %c\n", a);
     printf("b = %d\n", b);
     printf("c = %f\n", c);
-    printf("d = %f\n", d);
+    printf("d = %lf\n", d);
     printf("e = %d\n", e);
     printf("f = %d\n", f);
 }
