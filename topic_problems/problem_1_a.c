@@ -1,7 +1,7 @@
 /**
  * @file problem_1_a.c
  * @author Raan_at_Git (Windows) (74211378+Raan-Saurav-Bhuyan@users.noreply.github.com)
- * @brief Write a C program that reads temperature in Celsius and displays it in Fahrenheit.
+ * @brief Write a C program that reads temperature in Celsius, displays it in Fahrenheit and vice versa.
  * @version 0.1
  * @date 07-04-2023
  *
@@ -47,7 +47,7 @@ int main()
             printf_s("\nEnter the temperature in fahrenheit units: ");
             scanf_s("%f", &fahrenheit);
 
-            // convert fahrenheit into Celsius and print it
+            // convert Fahrenheit into Celsius and print it
             printf_s("The temperature in celsius units: %f\n", fah_to_cel(fahrenheit));
             break;
         case 3:
